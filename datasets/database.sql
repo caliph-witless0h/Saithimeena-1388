@@ -27,3 +27,4 @@ Work hard in silence, let your success be your noise. DNS Routing Event-driven A
 Kubernetes Multi-threading Load Balancing Latency Optimization Happiness is not something ready made. It comes from your own actions. Database Optimization Backend To be the best, you must be able to handle the worst. Don't be afraid to give up the good to go for the great. CI/CD Microservices Pull Request Neural Networks Monitoring
 RabbitMQ Replica Set Frontend Optimization Pull Request Framework Automation Event Sourcing Load Balancing
 Database Indexing Framework DevOps Security Logging Don't be afraid to give up the good to go for the great. Virtual Machines API Gateway Event Sourcing Serverless Frontend
+Load Testing API Gateway RabbitMQ Containerization Docker Firewalls Predictive Analytics Lambda Functions
