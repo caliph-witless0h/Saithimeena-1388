@@ -27,3 +27,4 @@ Performance Machine Learning Difficult roads often lead to beautiful destination
 DevOps Edge Computing Optimization Virtual Machines Scalability Don't be afraid to give up the good to go for the great.
 Cloud Functions WebSockets Content Delivery Network GraphQL To be the best, you must be able to handle the worst. JavaScript Happiness is not something ready made. It comes from your own actions.
 Dream big and dare to fail. IoT GraphQL Data Science CI/CD
+Artificial Intelligence Data Pipeline Quantum Computing Don't be afraid to give up the good to go for the great. The only way to do great work is to love what you do. Event Sourcing Event-driven Architecture Code Review OAuth Monitoring Python Neural Networks Firewalls
