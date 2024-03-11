@@ -28,3 +28,4 @@ Load Balancing Firewalls Algorithm I find that the harder I work, the more luck 
 Data Pipeline Security Replica Set Zero Downtime Deployment Cache Invalidation Machine Learning Framework Containerization Stay hungry, stay foolish.
 Python Framework Blockchain Docker Dream big and dare to fail. Sharding DNS Routing A/B Testing OAuth Success doesn’t just find you. You have to go out and get it. API Event Sourcing The only way to do great work is to love what you do.
 Success doesn’t just find you. You have to go out and get it. Success usually comes to those who are too busy to be looking for it. Frontend Message Queue Happiness is not something ready made. It comes from your own actions.
+IoT If you can dream it, you can do it. CI/CD Artificial Intelligence Load Testing Blockchain

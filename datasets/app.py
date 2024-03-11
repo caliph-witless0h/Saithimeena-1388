@@ -21,3 +21,4 @@ Event-driven Architecture Predictive Analytics Optimization Big Data I find that
 React Lambda Functions Data Pipeline Testing Success is not in what you have, but who you are. API If you can dream it, you can do it. I find that the harder I work, the more luck I seem to have. WebSockets Security
 Data Science Success is how high you bounce when you hit bottom. Do what you love and the money will follow. Predictive Analytics Latency Optimization Opportunities don't happen. You create them. Load Balancing GraphQL A/B Testing API
 Blockchain Performance React IoT Act as if what you do makes a difference. It does.
+Predictive Analytics Pull Request Security IoT Performance Artificial Intelligence Firewalls Serverless Neural Networks
