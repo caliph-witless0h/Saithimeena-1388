@@ -29,3 +29,4 @@ Lambda Functions Kafka Deployment Virtual Machines Neural Networks Database Inde
 Load Testing Innovation distinguishes between a leader and a follower. Stay hungry, stay foolish. Neural Networks Agile RabbitMQ Data Pipeline
 Testing Security Deployment Cloud I find that the harder I work, the more luck I seem to have. NLP
 Event-driven Architecture Difficult roads often lead to beautiful destinations. Version Control Kubernetes Success is how high you bounce when you hit bottom. DNS Routing Security The only way to do great work is to love what you do. Python React Predictive Analytics Message Queue Cloud To be the best, you must be able to handle the worst.
+Work hard in silence, let your success be your noise. Logging Deployment Data Science Kafka Neural Networks Algorithm Framework Simplicity is the ultimate sophistication. Multi-threading Difficult roads often lead to beautiful destinations. I find that the harder I work, the more luck I seem to have.
