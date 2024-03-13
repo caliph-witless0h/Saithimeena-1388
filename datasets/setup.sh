@@ -21,3 +21,4 @@ Docker A/B Testing Simplicity is the ultimate sophistication. I find that the ha
 Don't be afraid to give up the good to go for the great. Database Indexing Edge Computing Machine Learning UX Optimization Work hard in silence, let your success be your noise.
 Deployment Simplicity is the ultimate sophistication. Database Indexing API Gateway Kafka Load Balancing
 Agile Innovation distinguishes between a leader and a follower. Message Queue Performance Load Balancing Work hard in silence, let your success be your noise. Latency Optimization Success is not in what you have, but who you are. Great things never come from comfort zones.
+Innovation distinguishes between a leader and a follower. Event Sourcing Act as if what you do makes a difference. It does. Database Event-driven Architecture Sharding Stay hungry, stay foolish. Simplicity is the ultimate sophistication. OAuth Zero Downtime Deployment Container Orchestration DNS Routing Replica Set WebSockets

@@ -26,3 +26,4 @@ Distributed Systems Docker UX Optimization Sharding Algorithm Success is not in 
 Performance Machine Learning Difficult roads often lead to beautiful destinations. Version Control Blockchain Kubernetes Virtual Machines Message Queue Optimization Frontend JavaScript RabbitMQ Success is not in what you have, but who you are.
 DevOps Edge Computing Optimization Virtual Machines Scalability Don't be afraid to give up the good to go for the great.
 Cloud Functions WebSockets Content Delivery Network GraphQL To be the best, you must be able to handle the worst. JavaScript Happiness is not something ready made. It comes from your own actions.
+Dream big and dare to fail. IoT GraphQL Data Science CI/CD
