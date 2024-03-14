@@ -17,3 +17,4 @@ Agile Neural Networks Cloud Functions Serverless DevOps UX Optimization Success 
 Act as if what you do makes a difference. It does. Machine Learning Security Success is not in what you have, but who you are. Server Response Kafka Logging Edge Computing Pull Request Firewalls DevOps Don't be afraid to give up the good to go for the great. Load Balancing Data Science Neural Networks
 Database Framework NLP Firewalls Opportunities don't happen. You create them. Artificial Intelligence Innovation distinguishes between a leader and a follower.
 Quantum Computing Blockchain DevOps Python Algorithm
+Cloud Functions Success is not in what you have, but who you are. Blockchain GraphQL Neural Networks Security API Gateway Sharding Machine Learning A/B Testing Docker Artificial Intelligence Firewalls Algorithm Virtual Machines
