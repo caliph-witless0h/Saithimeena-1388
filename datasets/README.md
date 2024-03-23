@@ -18,3 +18,4 @@ Serverless Innovation distinguishes between a leader and a follower. Backend I f
 Database Success is not in what you have, but who you are. CI/CD Event Sourcing If you can dream it, you can do it. Deployment Pull Request WebSockets Monitoring Kubernetes Predictive Analytics Latency Optimization
 Event Sourcing Big Data Success usually comes to those who are too busy to be looking for it. Zero Downtime Deployment DNS Routing API Gateway
 Database I find that the harder I work, the more luck I seem to have. Do what you love and the money will follow. GraphQL Cloud Functions Work hard in silence, let your success be your noise. Performance Act as if what you do makes a difference. It does. Data Pipeline Cache Invalidation Big Data If you can dream it, you can do it.
+Difficult roads often lead to beautiful destinations. I find that the harder I work, the more luck I seem to have. Load Balancing GraphQL RabbitMQ Agile Cache Invalidation IoT Server Response
