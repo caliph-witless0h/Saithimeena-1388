@@ -23,3 +23,4 @@ Success usually comes to those who are too busy to be looking for it. Testing AP
 Containerization A/B Testing Great things never come from comfort zones. Scalability CI/CD Security Latency Optimization Multi-threading Success is how high you bounce when you hit bottom. Virtual Machines Load Balancing Cloud Functions
 Data Pipeline Frontend Latency Optimization Database Indexing DevOps Sharding Version Control Message Queue
 Event Sourcing Deployment Agile I find that the harder I work, the more luck I seem to have. Cloud Functions Scalability Code Review Framework
+Latency Optimization Performance Scalability Predictive Analytics React Zero Downtime Deployment Neural Networks Quantum Computing IoT Firewalls
