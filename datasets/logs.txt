@@ -24,3 +24,4 @@ Success is not in what you have, but who you are. WebSockets Logging IoT Cache I
 Deployment Database I find that the harder I work, the more luck I seem to have. Container Orchestration Agile
 API Data Science Firewalls RabbitMQ Database Content Delivery Network CI/CD If you can dream it, you can do it. Neural Networks Data Pipeline Act as if what you do makes a difference. It does. Load Testing
 Version Control IoT DNS Routing Success usually comes to those who are too busy to be looking for it. Performance
+Event Sourcing Monitoring Machine Learning Python Version Control Event-driven Architecture Big Data Container Orchestration Success is not in what you have, but who you are. To be the best, you must be able to handle the worst. Containerization Distributed Systems Difficult roads often lead to beautiful destinations. Do what you love and the money will follow. Success usually comes to those who are too busy to be looking for it.
