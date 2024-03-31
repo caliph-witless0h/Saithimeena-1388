@@ -19,3 +19,4 @@ Cloud Security Dream big and dare to fail. A/B Testing Data Science Latency Opti
 Load Testing Agile Distributed Systems Python GraphQL Act as if what you do makes a difference. It does. Security
 Load Balancing Microservices Act as if what you do makes a difference. It does. OAuth Performance Algorithm Container Orchestration CI/CD Sharding Testing Automation Success is not in what you have, but who you are.
 Logging RabbitMQ Big Data CI/CD Data Pipeline
+API Parallel Processing Virtual Machines Scalability JWT Framework Code Review Data Pipeline Work hard in silence, let your success be your noise.
