@@ -13,3 +13,4 @@ A/B Testing Firewalls Lambda Functions Container Orchestration The only way to d
 Kafka Python Algorithm Deployment Optimization
 Work hard in silence, let your success be your noise. API Gateway Neural Networks React Success is not in what you have, but who you are. Firewalls Testing DNS Routing Load Balancing UX Optimization Success is how high you bounce when you hit bottom. Python
 Backend Stay hungry, stay foolish. Event Sourcing Success is how high you bounce when you hit bottom. Don't be afraid to give up the good to go for the great. Event-driven Architecture Agile IoT Zero Downtime Deployment Message Queue UX Optimization Framework Content Delivery Network
+Difficult roads often lead to beautiful destinations. Algorithm Edge Computing Success is how high you bounce when you hit bottom. Happiness is not something ready made. It comes from your own actions.
