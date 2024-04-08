@@ -27,3 +27,4 @@ CI/CD Distributed Systems Success is how high you bounce when you hit bottom. Lo
 Firewalls Success is not in what you have, but who you are. Container Orchestration Difficult roads often lead to beautiful destinations. Containerization Kubernetes Load Balancing Big Data Content Delivery Network Kafka Automation React Parallel Processing Monitoring Happiness is not something ready made. It comes from your own actions.
 Lambda Functions Kafka Deployment Virtual Machines Neural Networks Database Indexing Simplicity is the ultimate sophistication. Security A/B Testing Container Orchestration Success is not in what you have, but who you are. Containerization Testing Serverless Parallel Processing
 Load Testing Innovation distinguishes between a leader and a follower. Stay hungry, stay foolish. Neural Networks Agile RabbitMQ Data Pipeline
+Testing Security Deployment Cloud I find that the harder I work, the more luck I seem to have. NLP
