@@ -12,3 +12,4 @@ Security I find that the harder I work, the more luck I seem to have. Load Testi
 A/B Testing Firewalls Lambda Functions Container Orchestration The only way to do great work is to love what you do. Load Testing Microservices NLP Database WebSockets Security Virtual Machines OAuth
 Kafka Python Algorithm Deployment Optimization
 Work hard in silence, let your success be your noise. API Gateway Neural Networks React Success is not in what you have, but who you are. Firewalls Testing DNS Routing Load Balancing UX Optimization Success is how high you bounce when you hit bottom. Python
+Backend Stay hungry, stay foolish. Event Sourcing Success is how high you bounce when you hit bottom. Don't be afraid to give up the good to go for the great. Event-driven Architecture Agile IoT Zero Downtime Deployment Message Queue UX Optimization Framework Content Delivery Network
