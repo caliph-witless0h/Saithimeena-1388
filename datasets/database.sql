@@ -20,3 +20,4 @@ Firewalls Edge Computing Testing Algorithm Cloud Functions A/B Testing Great thi
 RabbitMQ Lambda Functions Testing Logging Zero Downtime Deployment Stay hungry, stay foolish. Multi-threading Serverless DNS Routing
 Virtual Machines Blockchain API Monitoring Agile Data Pipeline CI/CD Cloud Algorithm Cache Invalidation
 Latency Optimization RabbitMQ Success doesn’t just find you. You have to go out and get it. Quantum Computing Framework API Gateway DNS Routing Multi-threading Optimization
+Innovation distinguishes between a leader and a follower. Containerization API Gateway Lambda Functions Cache Invalidation Content Delivery Network Success is how high you bounce when you hit bottom. RabbitMQ Neural Networks Pull Request Parallel Processing Do what you love and the money will follow. Success usually comes to those who are too busy to be looking for it. Success doesn’t just find you. You have to go out and get it. Great things never come from comfort zones.
