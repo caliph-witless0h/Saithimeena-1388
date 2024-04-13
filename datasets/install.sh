@@ -24,3 +24,4 @@ Testing Backend Distributed Systems Kubernetes Cloud Functions IoT Dream big and
 Artificial Intelligence Database Work hard in silence, let your success be your noise. Deployment Scalability
 Firewalls Data Science Containerization DNS Routing Microservices Latency Optimization Performance Predictive Analytics
 CI/CD Distributed Systems Success is how high you bounce when you hit bottom. Load Testing Monitoring Sharding Agile Security Work hard in silence, let your success be your noise. Opportunities don't happen. You create them. Stay hungry, stay foolish. Success is not in what you have, but who you are. Kafka Optimization
+Firewalls Success is not in what you have, but who you are. Container Orchestration Difficult roads often lead to beautiful destinations. Containerization Kubernetes Load Balancing Big Data Content Delivery Network Kafka Automation React Parallel Processing Monitoring Happiness is not something ready made. It comes from your own actions.
