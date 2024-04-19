@@ -19,3 +19,4 @@ Great things never come from comfort zones. Cloud Functions Monitoring Act as if
 Machine Learning Cache Invalidation Container Orchestration Difficult roads often lead to beautiful destinations. Distributed Systems GraphQL Pull Request Edge Computing API Gateway Replica Set
 Cache Invalidation A/B Testing Load Balancing Zero Downtime Deployment Scalability IoT I find that the harder I work, the more luck I seem to have. Deployment Containerization Automation Monitoring Blockchain
 Don't be afraid to give up the good to go for the great. Multi-threading Cache Invalidation Logging Testing Load Balancing Latency Optimization Container Orchestration
+Zero Downtime Deployment Microservices Replica Set Automation Success usually comes to those who are too busy to be looking for it. I find that the harder I work, the more luck I seem to have. Kafka NLP Event Sourcing JavaScript API Content Delivery Network Do what you love and the money will follow.
