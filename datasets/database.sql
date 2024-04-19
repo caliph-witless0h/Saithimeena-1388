@@ -19,3 +19,4 @@ UX Optimization Deployment DevOps Cloud Kubernetes OAuth Opportunities don't hap
 Firewalls Edge Computing Testing Algorithm Cloud Functions A/B Testing Great things never come from comfort zones. Container Orchestration
 RabbitMQ Lambda Functions Testing Logging Zero Downtime Deployment Stay hungry, stay foolish. Multi-threading Serverless DNS Routing
 Virtual Machines Blockchain API Monitoring Agile Data Pipeline CI/CD Cloud Algorithm Cache Invalidation
+Latency Optimization RabbitMQ Success doesn’t just find you. You have to go out and get it. Quantum Computing Framework API Gateway DNS Routing Multi-threading Optimization
