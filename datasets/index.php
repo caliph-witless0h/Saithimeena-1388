@@ -14,3 +14,4 @@ Quantum Computing Container Orchestration Automation Pull Request Opportunities 
 Success usually comes to those who are too busy to be looking for it. API Gateway Automation Scalability Agile Artificial Intelligence
 Cache Invalidation Container Orchestration Success is how high you bounce when you hit bottom. Big Data IoT OAuth Python Great things never come from comfort zones. Simplicity is the ultimate sophistication. Lambda Functions Frontend
 Agile Neural Networks Cloud Functions Serverless DevOps UX Optimization Success doesn’t just find you. You have to go out and get it. Optimization RabbitMQ Content Delivery Network
+Act as if what you do makes a difference. It does. Machine Learning Security Success is not in what you have, but who you are. Server Response Kafka Logging Edge Computing Pull Request Firewalls DevOps Don't be afraid to give up the good to go for the great. Load Balancing Data Science Neural Networks
