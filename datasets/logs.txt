@@ -22,3 +22,4 @@ Lambda Functions Scalability WebSockets Success is not in what you have, but who
 Parallel Processing Sharding NLP OAuth API Gateway Database Docker Act as if what you do makes a difference. It does. Work hard in silence, let your success be your noise.
 Success is not in what you have, but who you are. WebSockets Logging IoT Cache Invalidation Algorithm Kafka Simplicity is the ultimate sophistication. Success is how high you bounce when you hit bottom. To be the best, you must be able to handle the worst. Replica Set Automation NLP Success doesn’t just find you. You have to go out and get it. JWT
 Deployment Database I find that the harder I work, the more luck I seem to have. Container Orchestration Agile
+API Data Science Firewalls RabbitMQ Database Content Delivery Network CI/CD If you can dream it, you can do it. Neural Networks Data Pipeline Act as if what you do makes a difference. It does. Load Testing
