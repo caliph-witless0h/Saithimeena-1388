@@ -25,3 +25,4 @@ Security Cache Invalidation RabbitMQ Automation DevOps Logging
 Replica Set CI/CD Content Delivery Network Security Machine Learning Neural Networks Stay hungry, stay foolish. OAuth Load Testing
 A/B Testing Success doesn’t just find you. You have to go out and get it. Predictive Analytics UX Optimization Latency Optimization Cache Invalidation To be the best, you must be able to handle the worst. Framework Success usually comes to those who are too busy to be looking for it. Data Science Frontend Machine Learning OAuth
 Load Balancing Firewalls Algorithm I find that the harder I work, the more luck I seem to have. Replica Set Microservices Dream big and dare to fail. Pull Request Docker DNS Routing Scalability
+Data Pipeline Security Replica Set Zero Downtime Deployment Cache Invalidation Machine Learning Framework Containerization Stay hungry, stay foolish.
