@@ -21,3 +21,4 @@ DevOps JWT I find that the harder I work, the more luck I seem to have. Artifici
 The only way to do great work is to love what you do. Load Balancing Don't be afraid to give up the good to go for the great. Multi-threading Python Artificial Intelligence Performance Event-driven Architecture Server Response Content Delivery Network
 Microservices WebSockets Do what you love and the money will follow. Don't be afraid to give up the good to go for the great. React Scalability Frontend Data Pipeline Python Success doesn’t just find you. You have to go out and get it.
 Testing Backend Distributed Systems Kubernetes Cloud Functions IoT Dream big and dare to fail. Docker Stay hungry, stay foolish. Success usually comes to those who are too busy to be looking for it. Multi-threading To be the best, you must be able to handle the worst.
+Artificial Intelligence Database Work hard in silence, let your success be your noise. Deployment Scalability

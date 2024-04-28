@@ -21,3 +21,4 @@ Success doesn’t just find you. You have to go out and get it. Predictive Analyti
 Success is how high you bounce when you hit bottom. If you can dream it, you can do it. Quantum Computing Firewalls Code Review GraphQL Deployment Latency Optimization
 The only way to do great work is to love what you do. Don't be afraid to give up the good to go for the great. Agile Kubernetes Cloud Functions Edge Computing Monitoring Innovation distinguishes between a leader and a follower. Container Orchestration Code Review Event Sourcing Do what you love and the money will follow. Distributed Systems GraphQL
 Message Queue Act as if what you do makes a difference. It does. Container Orchestration API JWT CI/CD GraphQL Blockchain Event-driven Architecture Deployment Latency Optimization Edge Computing Innovation distinguishes between a leader and a follower. Cloud
+Optimization Opportunities don't happen. You create them. Message Queue Kafka Docker Microservices
