@@ -16,3 +16,4 @@ Logging Database Indexing Python Lambda Functions Stay hungry, stay foolish.
 Algorithm Predictive Analytics RabbitMQ Frontend Dream big and dare to fail. Cloud Quantum Computing Deployment Scalability
 Zero Downtime Deployment Scalability Server Response Opportunities don't happen. You create them. Message Queue If you can dream it, you can do it. API Gateway DevOps Database To be the best, you must be able to handle the worst. DNS Routing
 UX Optimization Deployment DevOps Cloud Kubernetes OAuth Opportunities don't happen. You create them. Framework Multi-threading Security IoT Load Balancing
+Firewalls Edge Computing Testing Algorithm Cloud Functions A/B Testing Great things never come from comfort zones. Container Orchestration
