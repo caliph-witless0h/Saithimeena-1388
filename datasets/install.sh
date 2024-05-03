@@ -19,3 +19,4 @@ Simplicity is the ultimate sophistication. Code Review To be the best, you must 
 Dream big and dare to fail. Container Orchestration Neural Networks Don't be afraid to give up the good to go for the great. JavaScript NLP Firewalls Logging
 DevOps JWT I find that the harder I work, the more luck I seem to have. Artificial Intelligence Python Dream big and dare to fail. JavaScript CI/CD Quantum Computing Latency Optimization
 The only way to do great work is to love what you do. Load Balancing Don't be afraid to give up the good to go for the great. Multi-threading Python Artificial Intelligence Performance Event-driven Architecture Server Response Content Delivery Network
+Microservices WebSockets Do what you love and the money will follow. Don't be afraid to give up the good to go for the great. React Scalability Frontend Data Pipeline Python Success doesn’t just find you. You have to go out and get it.
