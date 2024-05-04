@@ -22,3 +22,4 @@ Algorithm Security Server Response Deployment OAuth Replica Set
 Success usually comes to those who are too busy to be looking for it. Container Orchestration Big Data WebSockets OAuth Agile JavaScript API Gateway Innovation distinguishes between a leader and a follower. Success is how high you bounce when you hit bottom.
 Dream big and dare to fail. Database Containerization Backend Edge Computing Database Indexing Automation Framework Success usually comes to those who are too busy to be looking for it. Parallel Processing Virtual Machines Lambda Functions Success is how high you bounce when you hit bottom.
 Security Cache Invalidation RabbitMQ Automation DevOps Logging
+Replica Set CI/CD Content Delivery Network Security Machine Learning Neural Networks Stay hungry, stay foolish. OAuth Load Testing
