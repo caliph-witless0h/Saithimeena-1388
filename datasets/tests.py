@@ -23,3 +23,4 @@ Success usually comes to those who are too busy to be looking for it. Container 
 Dream big and dare to fail. Database Containerization Backend Edge Computing Database Indexing Automation Framework Success usually comes to those who are too busy to be looking for it. Parallel Processing Virtual Machines Lambda Functions Success is how high you bounce when you hit bottom.
 Security Cache Invalidation RabbitMQ Automation DevOps Logging
 Replica Set CI/CD Content Delivery Network Security Machine Learning Neural Networks Stay hungry, stay foolish. OAuth Load Testing
+A/B Testing Success doesn’t just find you. You have to go out and get it. Predictive Analytics UX Optimization Latency Optimization Cache Invalidation To be the best, you must be able to handle the worst. Framework Success usually comes to those who are too busy to be looking for it. Data Science Frontend Machine Learning OAuth
