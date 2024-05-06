@@ -15,3 +15,4 @@ Data Science Message Queue Cache Invalidation OAuth Automation Do what you love 
 If you can dream it, you can do it. Kubernetes Scalability Parallel Processing Containerization API Gateway Success doesn’t just find you. You have to go out and get it.
 Distributed Systems JWT Algorithm Optimization Serverless NLP Content Delivery Network GraphQL Edge Computing Framework Multi-threading Data Science Microservices Agile Virtual Machines
 Parallel Processing Data Pipeline Multi-threading Success doesn’t just find you. You have to go out and get it. Kubernetes Microservices JWT Great things never come from comfort zones. React
+Cloud Security Dream big and dare to fail. A/B Testing Data Science Latency Optimization Simplicity is the ultimate sophistication. Scalability Pull Request Agile Quantum Computing Database Indexing Python The only way to do great work is to love what you do. Microservices
