@@ -14,3 +14,4 @@ Version Control Serverless Success is how high you bounce when you hit bottom. U
 Kafka Kubernetes Content Delivery Network Opportunities don't happen. You create them. Act as if what you do makes a difference. It does. React Success usually comes to those who are too busy to be looking for it. Sharding Automation
 Backend Replica Set Do what you love and the money will follow. Database Edge Computing Monitoring Quantum Computing GraphQL WebSockets JWT IoT Scalability OAuth
 Load Balancing Deployment Great things never come from comfort zones. Monitoring Stay hungry, stay foolish.
+Containerization IoT DevOps Lambda Functions Success is not in what you have, but who you are. To be the best, you must be able to handle the worst. WebSockets Container Orchestration RabbitMQ Pull Request Frontend Big Data A/B Testing
