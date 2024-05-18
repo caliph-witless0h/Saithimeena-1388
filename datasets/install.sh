@@ -18,3 +18,4 @@ Difficult roads often lead to beautiful destinations. Replica Set Dream big and 
 Simplicity is the ultimate sophistication. Code Review To be the best, you must be able to handle the worst. Success is not in what you have, but who you are. Act as if what you do makes a difference. It does. If you can dream it, you can do it. Distributed Systems
 Dream big and dare to fail. Container Orchestration Neural Networks Don't be afraid to give up the good to go for the great. JavaScript NLP Firewalls Logging
 DevOps JWT I find that the harder I work, the more luck I seem to have. Artificial Intelligence Python Dream big and dare to fail. JavaScript CI/CD Quantum Computing Latency Optimization
+The only way to do great work is to love what you do. Load Balancing Don't be afraid to give up the good to go for the great. Multi-threading Python Artificial Intelligence Performance Event-driven Architecture Server Response Content Delivery Network
