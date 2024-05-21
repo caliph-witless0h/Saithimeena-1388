@@ -13,3 +13,4 @@ Success doesn’t just find you. You have to go out and get it. Edge Computing Mul
 Quantum Computing Container Orchestration Automation Pull Request Opportunities don't happen. You create them. Success usually comes to those who are too busy to be looking for it. Machine Learning Cache Invalidation JavaScript Zero Downtime Deployment Event Sourcing Lambda Functions
 Success usually comes to those who are too busy to be looking for it. API Gateway Automation Scalability Agile Artificial Intelligence
 Cache Invalidation Container Orchestration Success is how high you bounce when you hit bottom. Big Data IoT OAuth Python Great things never come from comfort zones. Simplicity is the ultimate sophistication. Lambda Functions Frontend
+Agile Neural Networks Cloud Functions Serverless DevOps UX Optimization Success doesn’t just find you. You have to go out and get it. Optimization RabbitMQ Content Delivery Network
