@@ -15,3 +15,4 @@ Lambda Functions Logging I find that the harder I work, the more luck I seem to 
 Lambda Functions Do what you love and the money will follow. Act as if what you do makes a difference. It does. Automation JWT
 OAuth UX Optimization React Artificial Intelligence Kubernetes Success usually comes to those who are too busy to be looking for it. Cloud Edge Computing
 WebSockets CI/CD DNS Routing DevOps Happiness is not something ready made. It comes from your own actions. Frontend Automation Testing
+Microservices Security If you can dream it, you can do it. Big Data Logging Code Review DevOps Neural Networks Scalability Container Orchestration Sharding
