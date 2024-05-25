@@ -14,3 +14,4 @@ Frontend Latency Optimization Quantum Computing Success doesn’t just find you. Y
 Code Review IoT Edge Computing React Act as if what you do makes a difference. It does. Work hard in silence, let your success be your noise. Containerization
 Logging Database Indexing Python Lambda Functions Stay hungry, stay foolish.
 Algorithm Predictive Analytics RabbitMQ Frontend Dream big and dare to fail. Cloud Quantum Computing Deployment Scalability
+Zero Downtime Deployment Scalability Server Response Opportunities don't happen. You create them. Message Queue If you can dream it, you can do it. API Gateway DevOps Database To be the best, you must be able to handle the worst. DNS Routing
