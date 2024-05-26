@@ -13,3 +13,4 @@ Containerization Zero Downtime Deployment Serverless Don't be afraid to give up 
 Frontend Latency Optimization Quantum Computing Success doesn’t just find you. You have to go out and get it. Pull Request CI/CD Load Testing Zero Downtime Deployment Difficult roads often lead to beautiful destinations. Deployment Do what you love and the money will follow. OAuth Logging
 Code Review IoT Edge Computing React Act as if what you do makes a difference. It does. Work hard in silence, let your success be your noise. Containerization
 Logging Database Indexing Python Lambda Functions Stay hungry, stay foolish.
+Algorithm Predictive Analytics RabbitMQ Frontend Dream big and dare to fail. Cloud Quantum Computing Deployment Scalability
