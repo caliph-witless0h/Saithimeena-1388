@@ -13,3 +13,4 @@ A/B Testing Predictive Analytics RabbitMQ Virtual Machines Difficult roads often
 Version Control Serverless Success is how high you bounce when you hit bottom. UX Optimization NLP Big Data
 Kafka Kubernetes Content Delivery Network Opportunities don't happen. You create them. Act as if what you do makes a difference. It does. React Success usually comes to those who are too busy to be looking for it. Sharding Automation
 Backend Replica Set Do what you love and the money will follow. Database Edge Computing Monitoring Quantum Computing GraphQL WebSockets JWT IoT Scalability OAuth
+Load Balancing Deployment Great things never come from comfort zones. Monitoring Stay hungry, stay foolish.
