@@ -16,3 +16,4 @@ Event Sourcing Act as if what you do makes a difference. It does. Load Balancing
 Kubernetes Python Neural Networks Success usually comes to those who are too busy to be looking for it. To be the best, you must be able to handle the worst. Opportunities don't happen. You create them. Difficult roads often lead to beautiful destinations. Success is not in what you have, but who you are. Server Response Virtual Machines Backend
 Server Response Container Orchestration Artificial Intelligence Logging Automation Machine Learning To be the best, you must be able to handle the worst. Event-driven Architecture WebSockets Database Indexing Stay hungry, stay foolish.
 API Gateway Serverless Edge Computing Zero Downtime Deployment Opportunities don't happen. You create them. GraphQL Algorithm
+Lambda Functions Kafka Cloud Stay hungry, stay foolish. To be the best, you must be able to handle the worst.
