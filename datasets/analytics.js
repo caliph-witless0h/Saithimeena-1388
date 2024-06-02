@@ -17,3 +17,4 @@ Performance Database Indexing Edge Computing Deployment Framework GraphQL API Ga
 Parallel Processing JavaScript JWT Security Success is not in what you have, but who you are. OAuth Optimization Event Sourcing Pull Request
 Distributed Systems Logging Latency Optimization Load Testing Pull Request Difficult roads often lead to beautiful destinations. Success doesn’t just find you. You have to go out and get it. Container Orchestration The only way to do great work is to love what you do. Success is how high you bounce when you hit bottom. Act as if what you do makes a difference. It does. API
 Performance Container Orchestration Stay hungry, stay foolish. Zero Downtime Deployment API Gateway Firewalls Quantum Computing
+Testing WebSockets Code Review Don't be afraid to give up the good to go for the great. Virtual Machines A/B Testing Happiness is not something ready made. It comes from your own actions. Pull Request Serverless Cache Invalidation Containerization
