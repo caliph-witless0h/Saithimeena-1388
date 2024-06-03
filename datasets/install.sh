@@ -16,3 +16,4 @@ React Parallel Processing NLP DevOps Data Pipeline Container Orchestration Distr
 Quantum Computing Automation Containerization Logging Pull Request Success doesn’t just find you. You have to go out and get it. Database Firewalls Database Indexing
 Difficult roads often lead to beautiful destinations. Replica Set Dream big and dare to fail. Data Pipeline Artificial Intelligence Neural Networks
 Simplicity is the ultimate sophistication. Code Review To be the best, you must be able to handle the worst. Success is not in what you have, but who you are. Act as if what you do makes a difference. It does. If you can dream it, you can do it. Distributed Systems
+Dream big and dare to fail. Container Orchestration Neural Networks Don't be afraid to give up the good to go for the great. JavaScript NLP Firewalls Logging
