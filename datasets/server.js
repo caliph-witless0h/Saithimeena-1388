@@ -14,3 +14,4 @@ Parallel Processing Algorithm Work hard in silence, let your success be your noi
 Lambda Functions Logging I find that the harder I work, the more luck I seem to have. Version Control Success is how high you bounce when you hit bottom. API Happiness is not something ready made. It comes from your own actions. Cache Invalidation Container Orchestration WebSockets Latency Optimization Great things never come from comfort zones. GraphQL Innovation distinguishes between a leader and a follower.
 Lambda Functions Do what you love and the money will follow. Act as if what you do makes a difference. It does. Automation JWT
 OAuth UX Optimization React Artificial Intelligence Kubernetes Success usually comes to those who are too busy to be looking for it. Cloud Edge Computing
+WebSockets CI/CD DNS Routing DevOps Happiness is not something ready made. It comes from your own actions. Frontend Automation Testing

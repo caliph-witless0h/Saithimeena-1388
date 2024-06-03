@@ -17,3 +17,4 @@ Sharding Version Control Docker Act as if what you do makes a difference. It doe
 Content Delivery Network Machine Learning Success is not in what you have, but who you are. JWT Parallel Processing Don't be afraid to give up the good to go for the great.
 Load Balancing Version Control Zero Downtime Deployment Docker UX Optimization Event-driven Architecture API Gateway DevOps
 Success is not in what you have, but who you are. Data Pipeline Security Cloud Scalability API
+Success doesn’t just find you. You have to go out and get it. Predictive Analytics Act as if what you do makes a difference. It does. Frontend Machine Learning Event Sourcing DevOps Blockchain Work hard in silence, let your success be your noise. Scalability
