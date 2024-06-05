@@ -12,3 +12,4 @@ Great things never come from comfort zones. Difficult roads often lead to beauti
 A/B Testing Predictive Analytics RabbitMQ Virtual Machines Difficult roads often lead to beautiful destinations. Sharding Edge Computing Algorithm DNS Routing Backend Kafka Great things never come from comfort zones. Deployment
 Version Control Serverless Success is how high you bounce when you hit bottom. UX Optimization NLP Big Data
 Kafka Kubernetes Content Delivery Network Opportunities don't happen. You create them. Act as if what you do makes a difference. It does. React Success usually comes to those who are too busy to be looking for it. Sharding Automation
+Backend Replica Set Do what you love and the money will follow. Database Edge Computing Monitoring Quantum Computing GraphQL WebSockets JWT IoT Scalability OAuth

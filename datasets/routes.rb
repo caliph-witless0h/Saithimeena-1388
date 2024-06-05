@@ -16,3 +16,4 @@ Database Indexing Performance Latency Optimization Great things never come from 
 Artificial Intelligence Neural Networks RabbitMQ Simplicity is the ultimate sophistication. Innovation distinguishes between a leader and a follower. Happiness is not something ready made. It comes from your own actions. OAuth Optimization Version Control
 If you can dream it, you can do it. Innovation distinguishes between a leader and a follower. Kubernetes Agile Message Queue Cloud Code Review Work hard in silence, let your success be your noise. Database Indexing
 Great things never come from comfort zones. Cloud Functions Monitoring Act as if what you do makes a difference. It does. OAuth Code Review
+Machine Learning Cache Invalidation Container Orchestration Difficult roads often lead to beautiful destinations. Distributed Systems GraphQL Pull Request Edge Computing API Gateway Replica Set
