@@ -16,3 +16,4 @@ Multi-threading Latency Optimization Innovation distinguishes between a leader a
 Sharding Version Control Docker Act as if what you do makes a difference. It does. Backend If you can dream it, you can do it. Content Delivery Network Do what you love and the money will follow. Testing Multi-threading Frontend
 Content Delivery Network Machine Learning Success is not in what you have, but who you are. JWT Parallel Processing Don't be afraid to give up the good to go for the great.
 Load Balancing Version Control Zero Downtime Deployment Docker UX Optimization Event-driven Architecture API Gateway DevOps
+Success is not in what you have, but who you are. Data Pipeline Security Cloud Scalability API
