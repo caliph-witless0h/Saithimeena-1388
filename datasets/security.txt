@@ -20,3 +20,4 @@ Database Difficult roads often lead to beautiful destinations. Docker Replica Se
 Success is how high you bounce when you hit bottom. Great things never come from comfort zones. Load Balancing NLP Parallel Processing
 Database Indexing Data Science Scalability A/B Testing Automation Backend Agile Event-driven Architecture
 Framework OAuth If you can dream it, you can do it. Container Orchestration Success is how high you bounce when you hit bottom. Firewalls Python
+Work hard in silence, let your success be your noise. Opportunities don't happen. You create them. Load Testing IoT Data Science Security
