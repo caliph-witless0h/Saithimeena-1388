@@ -11,3 +11,4 @@ Event Sourcing Quantum Computing RabbitMQ GraphQL JavaScript Machine Learning We
 Great things never come from comfort zones. Difficult roads often lead to beautiful destinations. Testing DevOps IoT Message Queue Happiness is not something ready made. It comes from your own actions.
 A/B Testing Predictive Analytics RabbitMQ Virtual Machines Difficult roads often lead to beautiful destinations. Sharding Edge Computing Algorithm DNS Routing Backend Kafka Great things never come from comfort zones. Deployment
 Version Control Serverless Success is how high you bounce when you hit bottom. UX Optimization NLP Big Data
+Kafka Kubernetes Content Delivery Network Opportunities don't happen. You create them. Act as if what you do makes a difference. It does. React Success usually comes to those who are too busy to be looking for it. Sharding Automation
