@@ -19,3 +19,4 @@ Load Balancing Difficult roads often lead to beautiful destinations. Code Review
 Database Difficult roads often lead to beautiful destinations. Docker Replica Set I find that the harder I work, the more luck I seem to have. Server Response Data Pipeline Big Data IoT If you can dream it, you can do it. Cache Invalidation Predictive Analytics Deployment
 Success is how high you bounce when you hit bottom. Great things never come from comfort zones. Load Balancing NLP Parallel Processing
 Database Indexing Data Science Scalability A/B Testing Automation Backend Agile Event-driven Architecture
+Framework OAuth If you can dream it, you can do it. Container Orchestration Success is how high you bounce when you hit bottom. Firewalls Python
