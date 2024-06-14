@@ -17,3 +17,4 @@ Great things never come from comfort zones. Quantum Computing Firewalls RabbitMQ
 Database Indexing API Automation Version Control Kafka Scalability Load Balancing Logging Cache Invalidation Predictive Analytics
 Innovation distinguishes between a leader and a follower. API Gateway IoT Event Sourcing Scalability Replica Set Serverless
 Happiness is not something ready made. It comes from your own actions. OAuth Artificial Intelligence Great things never come from comfort zones. Serverless Kafka Security Success is how high you bounce when you hit bottom. React Machine Learning Distributed Systems JWT
+Testing Distributed Systems Blockchain Cloud Functions Kubernetes Microservices Zero Downtime Deployment Don't be afraid to give up the good to go for the great. Dream big and dare to fail. CI/CD Firewalls Optimization The only way to do great work is to love what you do. DNS Routing Act as if what you do makes a difference. It does.
