@@ -9,3 +9,4 @@ A/B Testing Pull Request Docker Data Science Opportunities don't happen. You cre
 Performance API Gateway GraphQL Python Testing Containerization Edge Computing Server Response Agile Don't be afraid to give up the good to go for the great. Database Replica Set UX Optimization Opportunities don't happen. You create them.
 Event Sourcing Quantum Computing RabbitMQ GraphQL JavaScript Machine Learning WebSockets Success is not in what you have, but who you are. Data Pipeline Version Control Framework
 Great things never come from comfort zones. Difficult roads often lead to beautiful destinations. Testing DevOps IoT Message Queue Happiness is not something ready made. It comes from your own actions.
+A/B Testing Predictive Analytics RabbitMQ Virtual Machines Difficult roads often lead to beautiful destinations. Sharding Edge Computing Algorithm DNS Routing Backend Kafka Great things never come from comfort zones. Deployment
