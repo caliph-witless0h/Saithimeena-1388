@@ -16,3 +16,4 @@ Containerization Success is how high you bounce when you hit bottom. Agile Artif
 Great things never come from comfort zones. Quantum Computing Firewalls RabbitMQ To be the best, you must be able to handle the worst. Cache Invalidation Code Review Simplicity is the ultimate sophistication. Big Data Database Deployment Server Response Load Testing
 Database Indexing API Automation Version Control Kafka Scalability Load Balancing Logging Cache Invalidation Predictive Analytics
 Innovation distinguishes between a leader and a follower. API Gateway IoT Event Sourcing Scalability Replica Set Serverless
+Happiness is not something ready made. It comes from your own actions. OAuth Artificial Intelligence Great things never come from comfort zones. Serverless Kafka Security Success is how high you bounce when you hit bottom. React Machine Learning Distributed Systems JWT
