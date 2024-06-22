@@ -9,3 +9,4 @@ Opportunities don't happen. You create them. If you can dream it, you can do it.
 Framework Dream big and dare to fail. Edge Computing Data Science Stay hungry, stay foolish. Opportunities don't happen. You create them. Code Review Logging Security Containerization Database API Gateway
 Machine Learning Difficult roads often lead to beautiful destinations. Firewalls React Performance
 Difficult roads often lead to beautiful destinations. Automation Happiness is not something ready made. It comes from your own actions. Neural Networks Cloud Functions Edge Computing Big Data Load Testing Innovation distinguishes between a leader and a follower.
+Containerization Zero Downtime Deployment Serverless Don't be afraid to give up the good to go for the great. Database Predictive Analytics Firewalls Work hard in silence, let your success be your noise. Opportunities don't happen. You create them. Event Sourcing Event-driven Architecture Message Queue NLP Server Response
