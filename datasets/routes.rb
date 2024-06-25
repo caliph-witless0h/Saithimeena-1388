@@ -12,3 +12,4 @@ Success is not in what you have, but who you are. Work hard in silence, let your
 Sharding Code Review Innovation distinguishes between a leader and a follower. A/B Testing Latency Optimization I find that the harder I work, the more luck I seem to have. Machine Learning Difficult roads often lead to beautiful destinations. UX Optimization
 API DevOps Automation Serverless Database Indexing
 Code Review OAuth Security API Gateway Cloud Functions Success usually comes to those who are too busy to be looking for it. CI/CD
+Database Indexing Performance Latency Optimization Great things never come from comfort zones. Version Control Data Science Agile
