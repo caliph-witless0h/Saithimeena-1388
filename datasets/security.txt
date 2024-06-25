@@ -17,3 +17,4 @@ Pull Request Container Orchestration Data Science Parallel Processing Machine Le
 Algorithm Performance Frontend The only way to do great work is to love what you do. Cloud Functions API Load Testing Data Pipeline Serverless I find that the harder I work, the more luck I seem to have.
 Load Balancing Difficult roads often lead to beautiful destinations. Code Review Content Delivery Network Virtual Machines
 Database Difficult roads often lead to beautiful destinations. Docker Replica Set I find that the harder I work, the more luck I seem to have. Server Response Data Pipeline Big Data IoT If you can dream it, you can do it. Cache Invalidation Predictive Analytics Deployment
+Success is how high you bounce when you hit bottom. Great things never come from comfort zones. Load Balancing NLP Parallel Processing

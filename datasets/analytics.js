@@ -15,3 +15,4 @@ A/B Testing Container Orchestration Machine Learning Happiness is not something 
 Python The only way to do great work is to love what you do. Logging If you can dream it, you can do it. Performance Great things never come from comfort zones. RabbitMQ Database Version Control
 Performance Database Indexing Edge Computing Deployment Framework GraphQL API Gateway Kubernetes Server Response UX Optimization Load Balancing CI/CD IoT
 Parallel Processing JavaScript JWT Security Success is not in what you have, but who you are. OAuth Optimization Event Sourcing Pull Request
+Distributed Systems Logging Latency Optimization Load Testing Pull Request Difficult roads often lead to beautiful destinations. Success doesn’t just find you. You have to go out and get it. Container Orchestration The only way to do great work is to love what you do. Success is how high you bounce when you hit bottom. Act as if what you do makes a difference. It does. API
