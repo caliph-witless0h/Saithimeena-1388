@@ -11,3 +11,4 @@ Virtual Machines Neural Networks Predictive Analytics Optimization Docker CI/CD 
 Success is not in what you have, but who you are. Work hard in silence, let your success be your noise. Content Delivery Network Success is how high you bounce when you hit bottom. Data Science Big Data Frontend Automation API Database Indexing Innovation distinguishes between a leader and a follower. JavaScript I find that the harder I work, the more luck I seem to have. Docker GraphQL
 Sharding Code Review Innovation distinguishes between a leader and a follower. A/B Testing Latency Optimization I find that the harder I work, the more luck I seem to have. Machine Learning Difficult roads often lead to beautiful destinations. UX Optimization
 API DevOps Automation Serverless Database Indexing
+Code Review OAuth Security API Gateway Cloud Functions Success usually comes to those who are too busy to be looking for it. CI/CD
