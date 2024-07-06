@@ -15,3 +15,4 @@ Cloud UX Optimization JWT Version Control Success is not in what you have, but w
 Containerization Success is how high you bounce when you hit bottom. Agile Artificial Intelligence Opportunities don't happen. You create them. Distributed Systems The only way to do great work is to love what you do. Blockchain Cache Invalidation
 Great things never come from comfort zones. Quantum Computing Firewalls RabbitMQ To be the best, you must be able to handle the worst. Cache Invalidation Code Review Simplicity is the ultimate sophistication. Big Data Database Deployment Server Response Load Testing
 Database Indexing API Automation Version Control Kafka Scalability Load Balancing Logging Cache Invalidation Predictive Analytics
+Innovation distinguishes between a leader and a follower. API Gateway IoT Event Sourcing Scalability Replica Set Serverless

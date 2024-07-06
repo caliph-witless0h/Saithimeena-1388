@@ -12,3 +12,4 @@ Virtual Machines Load Testing Machine Learning Act as if what you do makes a dif
 Neural Networks Security Predictive Analytics Database Success doesn’t just find you. You have to go out and get it. Great things never come from comfort zones.
 Multi-threading Load Testing Do what you love and the money will follow. Happiness is not something ready made. It comes from your own actions. Python I find that the harder I work, the more luck I seem to have. Containerization Cloud The only way to do great work is to love what you do. Pull Request Stay hungry, stay foolish.
 Quantum Computing Big Data Predictive Analytics Database Deployment Serverless Event Sourcing Event-driven Architecture API Gateway Zero Downtime Deployment Agile Message Queue Simplicity is the ultimate sophistication. Sharding
+Framework Opportunities don't happen. You create them. React Containerization Content Delivery Network Difficult roads often lead to beautiful destinations.
