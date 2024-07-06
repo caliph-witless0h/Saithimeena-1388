@@ -13,3 +13,4 @@ DNS Routing Do what you love and the money will follow. API Kubernetes Event Sou
 WebSockets Quantum Computing OAuth Happiness is not something ready made. It comes from your own actions. Innovation distinguishes between a leader and a follower. Containerization A/B Testing Kafka Performance Automation GraphQL
 Data Pipeline API Cache Invalidation Event-driven Architecture DevOps Load Testing Opportunities don't happen. You create them.
 Multi-threading Latency Optimization Innovation distinguishes between a leader and a follower. Testing Message Queue React CI/CD UX Optimization Containerization
+Sharding Version Control Docker Act as if what you do makes a difference. It does. Backend If you can dream it, you can do it. Content Delivery Network Do what you love and the money will follow. Testing Multi-threading Frontend
