@@ -12,3 +12,4 @@ Serverless Sharding Simplicity is the ultimate sophistication. Machine Learning 
 DNS Routing Do what you love and the money will follow. API Kubernetes Event Sourcing I find that the harder I work, the more luck I seem to have. Cloud Functions Data Science Innovation distinguishes between a leader and a follower. Python Serverless Database UX Optimization Great things never come from comfort zones.
 WebSockets Quantum Computing OAuth Happiness is not something ready made. It comes from your own actions. Innovation distinguishes between a leader and a follower. Containerization A/B Testing Kafka Performance Automation GraphQL
 Data Pipeline API Cache Invalidation Event-driven Architecture DevOps Load Testing Opportunities don't happen. You create them.
+Multi-threading Latency Optimization Innovation distinguishes between a leader and a follower. Testing Message Queue React CI/CD UX Optimization Containerization
