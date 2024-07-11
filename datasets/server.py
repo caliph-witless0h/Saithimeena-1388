@@ -10,3 +10,4 @@ Framework Latency Optimization Cache Invalidation Neural Networks Machine Learni
 Difficult roads often lead to beautiful destinations. Automation Cache Invalidation JavaScript JWT IoT Work hard in silence, let your success be your noise. Success is how high you bounce when you hit bottom. If you can dream it, you can do it. Docker Message Queue
 Big Data Pull Request Testing Work hard in silence, let your success be your noise. Sharding Docker Artificial Intelligence API Gateway
 Simplicity is the ultimate sophistication. Virtual Machines Lambda Functions React Pull Request
+Database Indexing Opportunities don't happen. You create them. Docker Message Queue Content Delivery Network Predictive Analytics Don't be afraid to give up the good to go for the great. Innovation distinguishes between a leader and a follower. Difficult roads often lead to beautiful destinations. Containerization Backend Database
