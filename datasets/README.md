@@ -10,3 +10,4 @@ Quantum Computing Backend Containerization Success usually comes to those who ar
 Distributed Systems A/B Testing Deployment Code Review Latency Optimization Data Pipeline Event-driven Architecture Message Queue Container Orchestration Success is how high you bounce when you hit bottom.
 Virtual Machines Load Testing Machine Learning Act as if what you do makes a difference. It does. Quantum Computing Work hard in silence, let your success be your noise. Code Review
 Neural Networks Security Predictive Analytics Database Success doesn’t just find you. You have to go out and get it. Great things never come from comfort zones.
+Multi-threading Load Testing Do what you love and the money will follow. Happiness is not something ready made. It comes from your own actions. Python I find that the harder I work, the more luck I seem to have. Containerization Cloud The only way to do great work is to love what you do. Pull Request Stay hungry, stay foolish.
