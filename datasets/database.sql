@@ -8,3 +8,4 @@ Do what you love and the money will follow. Containerization Security Big Data C
 Opportunities don't happen. You create them. If you can dream it, you can do it. GraphQL Cloud Functions Message Queue Distributed Systems Firewalls
 Framework Dream big and dare to fail. Edge Computing Data Science Stay hungry, stay foolish. Opportunities don't happen. You create them. Code Review Logging Security Containerization Database API Gateway
 Machine Learning Difficult roads often lead to beautiful destinations. Firewalls React Performance
+Difficult roads often lead to beautiful destinations. Automation Happiness is not something ready made. It comes from your own actions. Neural Networks Cloud Functions Edge Computing Big Data Load Testing Innovation distinguishes between a leader and a follower.
