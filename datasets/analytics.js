@@ -14,3 +14,4 @@ Backend Neural Networks I find that the harder I work, the more luck I seem to h
 A/B Testing Container Orchestration Machine Learning Happiness is not something ready made. It comes from your own actions. Innovation distinguishes between a leader and a follower. Message Queue
 Python The only way to do great work is to love what you do. Logging If you can dream it, you can do it. Performance Great things never come from comfort zones. RabbitMQ Database Version Control
 Performance Database Indexing Edge Computing Deployment Framework GraphQL API Gateway Kubernetes Server Response UX Optimization Load Balancing CI/CD IoT
+Parallel Processing JavaScript JWT Security Success is not in what you have, but who you are. OAuth Optimization Event Sourcing Pull Request
