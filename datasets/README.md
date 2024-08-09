@@ -8,3 +8,4 @@ Backend Opportunities don't happen. You create them. Version Control Firewalls C
 Machine Learning Latency Optimization Database Python API Gateway Neural Networks
 Quantum Computing Backend Containerization Success usually comes to those who are too busy to be looking for it. Act as if what you do makes a difference. It does. Neural Networks Innovation distinguishes between a leader and a follower. Scalability Event-driven Architecture IoT Happiness is not something ready made. It comes from your own actions. Message Queue Performance Multi-threading Algorithm
 Distributed Systems A/B Testing Deployment Code Review Latency Optimization Data Pipeline Event-driven Architecture Message Queue Container Orchestration Success is how high you bounce when you hit bottom.
+Virtual Machines Load Testing Machine Learning Act as if what you do makes a difference. It does. Quantum Computing Work hard in silence, let your success be your noise. Code Review

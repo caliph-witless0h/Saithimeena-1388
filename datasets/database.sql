@@ -7,3 +7,4 @@ API Code Review Dream big and dare to fail. Version Control Cache Invalidation V
 Do what you love and the money will follow. Containerization Security Big Data Cache Invalidation Version Control JavaScript Latency Optimization Success is not in what you have, but who you are. Load Balancing API Gateway Agile Docker Message Queue Lambda Functions
 Opportunities don't happen. You create them. If you can dream it, you can do it. GraphQL Cloud Functions Message Queue Distributed Systems Firewalls
 Framework Dream big and dare to fail. Edge Computing Data Science Stay hungry, stay foolish. Opportunities don't happen. You create them. Code Review Logging Security Containerization Database API Gateway
+Machine Learning Difficult roads often lead to beautiful destinations. Firewalls React Performance
