@@ -12,3 +12,4 @@ JavaScript Cache Invalidation Difficult roads often lead to beautiful destinatio
 Algorithm Event Sourcing Docker Sharding Content Delivery Network IoT Opportunities don't happen. You create them. Lambda Functions Kubernetes Agile Stay hungry, stay foolish. Security Event-driven Architecture Quantum Computing
 Virtual Machines Artificial Intelligence React I find that the harder I work, the more luck I seem to have. Do what you love and the money will follow. Machine Learning Big Data Don't be afraid to give up the good to go for the great. Cloud Performance Opportunities don't happen. You create them.
 Cloud UX Optimization JWT Version Control Success is not in what you have, but who you are.
+Containerization Success is how high you bounce when you hit bottom. Agile Artificial Intelligence Opportunities don't happen. You create them. Distributed Systems The only way to do great work is to love what you do. Blockchain Cache Invalidation
