@@ -12,3 +12,4 @@ Containerization Version Control Frontend Zero Downtime Deployment IoT Stay hung
 Do what you love and the money will follow. Don't be afraid to give up the good to go for the great. Innovation distinguishes between a leader and a follower. Server Response Load Balancing Latency Optimization Testing Event Sourcing Framework OAuth Microservices Edge Computing
 Testing Event-driven Architecture Database Indexing Act as if what you do makes a difference. It does. Do what you love and the money will follow. Microservices Cloud Scalability Containerization Database Lambda Functions Cache Invalidation
 Dream big and dare to fail. Virtual Machines Lambda Functions OAuth Algorithm Framework Act as if what you do makes a difference. It does. Server Response Backend Edge Computing Kafka Firewalls
+Event Sourcing Act as if what you do makes a difference. It does. Load Balancing IoT Great things never come from comfort zones. Frontend Scalability Cloud NLP Docker
