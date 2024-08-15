@@ -7,3 +7,4 @@ Monitoring Success is not in what you have, but who you are. Frontend Framework 
 Latency Optimization Firewalls Automation Event Sourcing IoT Difficult roads often lead to beautiful destinations. Innovation distinguishes between a leader and a follower. RabbitMQ Act as if what you do makes a difference. It does. WebSockets Frontend GraphQL NLP Sharding React
 Parallel Processing A/B Testing Act as if what you do makes a difference. It does. Testing Load Testing Cloud WebSockets To be the best, you must be able to handle the worst. Framework
 Framework Latency Optimization Cache Invalidation Neural Networks Machine Learning Message Queue UX Optimization
+Difficult roads often lead to beautiful destinations. Automation Cache Invalidation JavaScript JWT IoT Work hard in silence, let your success be your noise. Success is how high you bounce when you hit bottom. If you can dream it, you can do it. Docker Message Queue

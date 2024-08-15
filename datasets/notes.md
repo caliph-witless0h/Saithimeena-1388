@@ -10,3 +10,4 @@ API To be the best, you must be able to handle the worst. UX Optimization Versio
 OAuth Agile Edge Computing Data Pipeline Serverless Version Control Message Queue Replica Set Lambda Functions
 Multi-threading Event-driven Architecture Monitoring Latency Optimization Quantum Computing Blockchain DNS Routing
 WebSockets Performance IoT Docker Don't be afraid to give up the good to go for the great. Neural Networks Innovation distinguishes between a leader and a follower.
+Firewalls Dream big and dare to fail. Big Data Distributed Systems Simplicity is the ultimate sophistication. Predictive Analytics Framework
