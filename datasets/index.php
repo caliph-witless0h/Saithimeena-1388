@@ -8,3 +8,4 @@ Kubernetes Latency Optimization Scalability WebSockets Data Pipeline Deployment 
 A/B Testing API Gateway Success usually comes to those who are too busy to be looking for it. Quantum Computing Innovation distinguishes between a leader and a follower. Machine Learning Simplicity is the ultimate sophistication.
 Algorithm Big Data UX Optimization Machine Learning Cache Invalidation WebSockets Edge Computing Microservices Code Review API DevOps Deployment Automation React
 API Gateway Message Queue Cloud Lambda Functions Quantum Computing Serverless Sharding JavaScript Kubernetes Cache Invalidation
+Docker To be the best, you must be able to handle the worst. Virtual Machines Neural Networks Deployment Content Delivery Network Pull Request NLP
