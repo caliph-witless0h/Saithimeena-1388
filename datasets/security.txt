@@ -12,3 +12,4 @@ Kubernetes Algorithm Agile Data Science Replica Set Zero Downtime Deployment Dev
 Message Queue API Dream big and dare to fail. Data Pipeline WebSockets Event-driven Architecture
 Multi-threading Blockchain If you can dream it, you can do it. Do what you love and the money will follow. Big Data Load Testing Framework Frontend Database Python React I find that the harder I work, the more luck I seem to have. Machine Learning Automation
 If you can dream it, you can do it. Parallel Processing Container Orchestration Sharding A/B Testing JavaScript Firewalls
+WebSockets Simplicity is the ultimate sophistication. Kubernetes Python Replica Set To be the best, you must be able to handle the worst. Artificial Intelligence Data Science Backend Multi-threading Logging
