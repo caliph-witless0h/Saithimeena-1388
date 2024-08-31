@@ -10,3 +10,4 @@ Lambda Functions Simplicity is the ultimate sophistication. Do what you love and
 Multi-threading Dream big and dare to fail. Firewalls React Event Sourcing
 JavaScript Cache Invalidation Difficult roads often lead to beautiful destinations. Database Deployment Microservices Agile Optimization Happiness is not something ready made. It comes from your own actions. Scalability Zero Downtime Deployment Virtual Machines Serverless Multi-threading
 Algorithm Event Sourcing Docker Sharding Content Delivery Network IoT Opportunities don't happen. You create them. Lambda Functions Kubernetes Agile Stay hungry, stay foolish. Security Event-driven Architecture Quantum Computing
+Virtual Machines Artificial Intelligence React I find that the harder I work, the more luck I seem to have. Do what you love and the money will follow. Machine Learning Big Data Don't be afraid to give up the good to go for the great. Cloud Performance Opportunities don't happen. You create them.
