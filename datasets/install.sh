@@ -10,3 +10,4 @@ Stay hungry, stay foolish. Performance CI/CD Difficult roads often lead to beaut
 Backend Algorithm DevOps Happiness is not something ready made. It comes from your own actions. Opportunities don't happen. You create them. Docker Artificial Intelligence
 Simplicity is the ultimate sophistication. Innovation distinguishes between a leader and a follower. Serverless I find that the harder I work, the more luck I seem to have. Framework Security NLP Kubernetes A/B Testing
 Virtual Machines Big Data Lambda Functions Simplicity is the ultimate sophistication. Act as if what you do makes a difference. It does. Serverless Agile Edge Computing Optimization Blockchain Backend CI/CD Monitoring
+Container Orchestration Security Scalability JWT Sharding If you can dream it, you can do it. Machine Learning Docker JavaScript Load Balancing Logging
