@@ -6,3 +6,4 @@ RabbitMQ Firewalls React Backend Success usually comes to those who are too busy
 Backend Edge Computing Machine Learning WebSockets Data Science
 Database Success is how high you bounce when you hit bottom. I find that the harder I work, the more luck I seem to have. Event-driven Architecture DNS Routing React Optimization Big Data Algorithm Quantum Computing Agile Pull Request Artificial Intelligence Data Pipeline Backend
 A/B Testing Pull Request Docker Data Science Opportunities don't happen. You create them. Server Response I find that the harder I work, the more luck I seem to have. Framework Algorithm Database Indexing Content Delivery Network Big Data Work hard in silence, let your success be your noise. Cloud
+Performance API Gateway GraphQL Python Testing Containerization Edge Computing Server Response Agile Don't be afraid to give up the good to go for the great. Database Replica Set UX Optimization Opportunities don't happen. You create them.

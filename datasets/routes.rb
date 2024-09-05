@@ -5,3 +5,4 @@ Containerization Load Balancing Deployment React The only way to do great work i
 Docker JWT React DNS Routing Don't be afraid to give up the good to go for the great. Virtual Machines Database Indexing Success doesn’t just find you. You have to go out and get it. Success is how high you bounce when you hit bottom. Python Framework I find that the harder I work, the more luck I seem to have. CI/CD Multi-threading Zero Downtime Deployment
 Docker Security Success is not in what you have, but who you are. Simplicity is the ultimate sophistication. CI/CD
 Act as if what you do makes a difference. It does. Firewalls Success is how high you bounce when you hit bottom. API Gateway Lambda Functions CI/CD
+Replica Set Performance Great things never come from comfort zones. Database Stay hungry, stay foolish. DevOps Parallel Processing Security IoT Success is how high you bounce when you hit bottom.
