@@ -8,3 +8,4 @@ Automation Load Testing Big Data Database Indexing Quantum Computing To be the b
 IoT Virtual Machines Server Response Do what you love and the money will follow. Version Control Data Pipeline Success doesn’t just find you. You have to go out and get it. DevOps
 API To be the best, you must be able to handle the worst. UX Optimization Version Control Don't be afraid to give up the good to go for the great. RabbitMQ Server Response Sharding Microservices
 OAuth Agile Edge Computing Data Pipeline Serverless Version Control Message Queue Replica Set Lambda Functions
+Multi-threading Event-driven Architecture Monitoring Latency Optimization Quantum Computing Blockchain DNS Routing
