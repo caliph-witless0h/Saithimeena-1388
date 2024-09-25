@@ -3,3 +3,4 @@ OAuth Blockchain Load Balancing To be the best, you must be able to handle the w
 Deployment Distributed Systems I find that the harder I work, the more luck I seem to have. React Pull Request Latency Optimization Multi-threading Performance Kafka
 RabbitMQ Firewalls Framework Success is how high you bounce when you hit bottom. Difficult roads often lead to beautiful destinations. Latency Optimization Load Testing Simplicity is the ultimate sophistication. Docker Act as if what you do makes a difference. It does. Sharding Cloud Functions Container Orchestration
 Testing Replica Set Happiness is not something ready made. It comes from your own actions. Python I find that the harder I work, the more luck I seem to have. Artificial Intelligence Edge Computing IoT Code Review Agile Kubernetes Scalability Security Simplicity is the ultimate sophistication.
+Logging API Gateway Virtual Machines Replica Set Event Sourcing CI/CD Data Pipeline
