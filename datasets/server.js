@@ -4,3 +4,4 @@ Predictive Analytics CI/CD DNS Routing Cache Invalidation The only way to do gre
 RabbitMQ IoT Security Event Sourcing JavaScript Monitoring Agile API Data Pipeline
 JWT Parallel Processing Kubernetes Lambda Functions DNS Routing Event-driven Architecture Predictive Analytics Cache Invalidation Logging
 Neural Networks Containerization Simplicity is the ultimate sophistication. Cloud Functions Version Control NLP Performance Frontend Data Science I find that the harder I work, the more luck I seem to have. Python Great things never come from comfort zones. Message Queue Content Delivery Network
+Parallel Processing Cache Invalidation Server Response Framework Data Science Containerization Firewalls Docker Success doesn’t just find you. You have to go out and get it. GraphQL Load Testing Zero Downtime Deployment Message Queue JWT
