@@ -7,3 +7,4 @@ Quantum Computing If you can dream it, you can do it. I find that the harder I w
 Cloud Load Testing OAuth Serverless Data Science To be the best, you must be able to handle the worst. Kubernetes API
 A/B Testing OAuth Automation Opportunities don't happen. You create them. Lambda Functions Happiness is not something ready made. It comes from your own actions. Neural Networks Performance Work hard in silence, let your success be your noise.
 Lambda Functions Simplicity is the ultimate sophistication. Do what you love and the money will follow. Kubernetes Success is not in what you have, but who you are. Cache Invalidation Success is how high you bounce when you hit bottom. Edge Computing GraphQL RabbitMQ Version Control API JavaScript Frontend Multi-threading
+Multi-threading Dream big and dare to fail. Firewalls React Event Sourcing
