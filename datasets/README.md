@@ -5,3 +5,4 @@ Edge Computing Simplicity is the ultimate sophistication. Kubernetes Event-drive
 Work hard in silence, let your success be your noise. OAuth Success is not in what you have, but who you are. NLP I find that the harder I work, the more luck I seem to have. Multi-threading Quantum Computing Monitoring Scalability
 Monitoring Kafka Load Balancing I find that the harder I work, the more luck I seem to have. Multi-threading Code Review Great things never come from comfort zones. Simplicity is the ultimate sophistication. Testing Firewalls Blockchain
 Backend Opportunities don't happen. You create them. Version Control Firewalls Cloud Functions Optimization Lambda Functions Do what you love and the money will follow. Database
+Machine Learning Latency Optimization Database Python API Gateway Neural Networks
