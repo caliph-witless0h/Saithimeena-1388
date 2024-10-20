@@ -7,3 +7,4 @@ Logging I find that the harder I work, the more luck I seem to have. Load Balanc
 Cloud Predictive Analytics Monitoring Algorithm Kafka Serverless To be the best, you must be able to handle the worst.
 JWT Load Balancing Replica Set Machine Learning Virtual Machines
 NLP Kafka Frontend Blockchain Load Testing Simplicity is the ultimate sophistication. Framework Artificial Intelligence
+Multi-threading Framework DNS Routing To be the best, you must be able to handle the worst. Simplicity is the ultimate sophistication. Dream big and dare to fail. UX Optimization JWT Artificial Intelligence Don't be afraid to give up the good to go for the great. Docker Blockchain
