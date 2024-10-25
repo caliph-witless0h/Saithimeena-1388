@@ -8,3 +8,4 @@ Security Predictive Analytics Success usually comes to those who are too busy to
 OAuth Event-driven Architecture Server Response Content Delivery Network Neural Networks Kubernetes
 Data Science Server Response Automation Great things never come from comfort zones. Cache Invalidation Message Queue Simplicity is the ultimate sophistication. Security Replica Set Cloud NLP JavaScript Multi-threading Frontend
 Scalability Work hard in silence, let your success be your noise. DNS Routing Framework DevOps Blockchain Event Sourcing WebSockets
+I find that the harder I work, the more luck I seem to have. UX Optimization Automation NLP Kubernetes Zero Downtime Deployment Pull Request Event Sourcing Python Data Science JavaScript Do what you love and the money will follow. Happiness is not something ready made. It comes from your own actions. Multi-threading
