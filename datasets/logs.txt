@@ -11,3 +11,4 @@ Success doesn’t just find you. You have to go out and get it. Algorithm Artifici
 JWT OAuth Scalability If you can dream it, you can do it. To be the best, you must be able to handle the worst. Artificial Intelligence
 Success is not in what you have, but who you are. Replica Set Deployment Cloud Performance Database Content Delivery Network Frontend Data Science
 API Gateway Database Indexing Cloud Functions Serverless The only way to do great work is to love what you do. CI/CD Difficult roads often lead to beautiful destinations. Success is how high you bounce when you hit bottom. Container Orchestration Database
+Container Orchestration Optimization RabbitMQ DNS Routing Replica Set To be the best, you must be able to handle the worst. Database IoT
