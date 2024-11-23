@@ -6,3 +6,4 @@ Big Data Frontend Virtual Machines The only way to do great work is to love what
 Logging I find that the harder I work, the more luck I seem to have. Load Balancing Automation Python
 Cloud Predictive Analytics Monitoring Algorithm Kafka Serverless To be the best, you must be able to handle the worst.
 JWT Load Balancing Replica Set Machine Learning Virtual Machines
+NLP Kafka Frontend Blockchain Load Testing Simplicity is the ultimate sophistication. Framework Artificial Intelligence
