@@ -3,3 +3,4 @@ JWT A/B Testing RabbitMQ Edge Computing Docker Frontend
 Pull Request Performance Neural Networks Docker Blockchain Testing Code Review
 Edge Computing Simplicity is the ultimate sophistication. Kubernetes Event-driven Architecture Performance Server Response IoT Framework Container Orchestration Machine Learning Containerization Python Sharding
 Work hard in silence, let your success be your noise. OAuth Success is not in what you have, but who you are. NLP I find that the harder I work, the more luck I seem to have. Multi-threading Quantum Computing Monitoring Scalability
+Monitoring Kafka Load Balancing I find that the harder I work, the more luck I seem to have. Multi-threading Code Review Great things never come from comfort zones. Simplicity is the ultimate sophistication. Testing Firewalls Blockchain

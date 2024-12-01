@@ -5,3 +5,4 @@ Optimization Kubernetes Python Firewalls Docker
 Logging Database Indexing Performance NLP API Code Review CI/CD Scalability Database Monitoring Microservices Work hard in silence, let your success be your noise. Python
 Event Sourcing Happiness is not something ready made. It comes from your own actions. Testing API To be the best, you must be able to handle the worst. Performance DevOps Event-driven Architecture Parallel Processing NLP Load Testing Quantum Computing
 Pull Request Server Response Don't be afraid to give up the good to go for the great. Dream big and dare to fail. Success doesn’t just find you. You have to go out and get it. React Python
+Monitoring Sharding If you can dream it, you can do it. To be the best, you must be able to handle the worst. Logging CI/CD Kubernetes Container Orchestration Database
