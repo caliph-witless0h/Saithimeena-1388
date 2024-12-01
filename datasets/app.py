@@ -4,3 +4,4 @@ Scalability Data Science Work hard in silence, let your success be your noise. S
 To be the best, you must be able to handle the worst. Machine Learning Optimization CI/CD Act as if what you do makes a difference. It does. Virtual Machines Agile Security Cache Invalidation Blockchain Performance Innovation distinguishes between a leader and a follower. Content Delivery Network
 RabbitMQ Firewalls React Backend Success usually comes to those who are too busy to be looking for it. Work hard in silence, let your success be your noise. Framework
 Backend Edge Computing Machine Learning WebSockets Data Science
+Database Success is how high you bounce when you hit bottom. I find that the harder I work, the more luck I seem to have. Event-driven Architecture DNS Routing React Optimization Big Data Algorithm Quantum Computing Agile Pull Request Artificial Intelligence Data Pipeline Backend
