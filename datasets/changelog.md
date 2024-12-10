@@ -2,3 +2,4 @@ Big Data Work hard in silence, let your success be your noise. Blockchain IoT A/
 Happiness is not something ready made. It comes from your own actions. Act as if what you do makes a difference. It does. Performance Security Predictive Analytics Latency Optimization Frontend Backend
 Success doesn’t just find you. You have to go out and get it. Optimization Parallel Processing Machine Learning JavaScript API Agile Event Sourcing Predictive Analytics GraphQL
 Docker Cache Invalidation Python RabbitMQ Act as if what you do makes a difference. It does. API Gateway
+Big Data Frontend Virtual Machines The only way to do great work is to love what you do. UX Optimization Database Indexing Automation OAuth Happiness is not something ready made. It comes from your own actions.
