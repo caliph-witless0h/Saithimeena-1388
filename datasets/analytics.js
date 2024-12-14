@@ -5,3 +5,4 @@ Big Data Security Containerization Difficult roads often lead to beautiful desti
 Data Science Work hard in silence, let your success be your noise. Do what you love and the money will follow. Success doesn’t just find you. You have to go out and get it. CI/CD Agile Opportunities don't happen. You create them. DevOps Testing Monitoring Docker Firewalls
 Sharding Zero Downtime Deployment Pull Request Machine Learning Data Science Server Response Logging Data Pipeline Python Content Delivery Network GraphQL
 Security Predictive Analytics Success usually comes to those who are too busy to be looking for it. Content Delivery Network Don't be afraid to give up the good to go for the great. Performance API Gateway Backend Server Response Container Orchestration Big Data
+OAuth Event-driven Architecture Server Response Content Delivery Network Neural Networks Kubernetes

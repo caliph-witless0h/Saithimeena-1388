@@ -3,3 +3,4 @@ Code Review Virtual Machines Python Event Sourcing Success is how high you bounc
 Difficult roads often lead to beautiful destinations. CI/CD React Data Science Testing I find that the harder I work, the more luck I seem to have.
 Neural Networks Testing API React Message Queue Database Indexing
 Quantum Computing API Gateway WebSockets Zero Downtime Deployment I find that the harder I work, the more luck I seem to have. DevOps IoT Machine Learning Parallel Processing
+Cloud JWT Lambda Functions Multi-threading Database Success doesn’t just find you. You have to go out and get it. I find that the harder I work, the more luck I seem to have. Latency Optimization Python DevOps Content Delivery Network The only way to do great work is to love what you do. Zero Downtime Deployment
