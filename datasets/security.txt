@@ -1,3 +1,4 @@
 Multi-threading Monitoring Version Control Load Testing Load Balancing Edge Computing Great things never come from comfort zones. Serverless GraphQL Distributed Systems Pull Request Difficult roads often lead to beautiful destinations. Docker Performance Agile
 Deployment Virtual Machines Backend Serverless Docker Quantum Computing
 JavaScript Database Event Sourcing Content Delivery Network Microservices Data Pipeline Quantum Computing UX Optimization Stay hungry, stay foolish. Framework Performance Don't be afraid to give up the good to go for the great. API
+Virtual Machines Testing Monitoring Scalability Event Sourcing Difficult roads often lead to beautiful destinations. UX Optimization Deployment Load Testing Success doesn’t just find you. You have to go out and get it. Predictive Analytics Happiness is not something ready made. It comes from your own actions.
