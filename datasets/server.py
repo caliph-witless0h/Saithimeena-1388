@@ -1,2 +1,3 @@
 Testing React Neural Networks Machine Learning Server Response Great things never come from comfort zones. Big Data If you can dream it, you can do it. Load Testing Algorithm Difficult roads often lead to beautiful destinations. Serverless Do what you love and the money will follow.
 Blockchain CI/CD Cloud Functions If you can dream it, you can do it. JWT Success is not in what you have, but who you are. Event-driven Architecture Security Data Pipeline Data Science IoT Microservices Big Data Success is how high you bounce when you hit bottom. Monitoring
+A/B Testing Pull Request Deployment DNS Routing Automation Work hard in silence, let your success be your noise. Multi-threading Event Sourcing Container Orchestration Cache Invalidation
