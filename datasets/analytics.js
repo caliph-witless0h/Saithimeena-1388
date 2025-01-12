@@ -3,3 +3,4 @@ Innovation distinguishes between a leader and a follower. Stay hungry, stay fool
 Data Pipeline Event Sourcing RabbitMQ Python Message Queue
 Big Data Security Containerization Difficult roads often lead to beautiful destinations. Machine Learning Happiness is not something ready made. It comes from your own actions.
 Data Science Work hard in silence, let your success be your noise. Do what you love and the money will follow. Success doesn’t just find you. You have to go out and get it. CI/CD Agile Opportunities don't happen. You create them. DevOps Testing Monitoring Docker Firewalls
+Sharding Zero Downtime Deployment Pull Request Machine Learning Data Science Server Response Logging Data Pipeline Python Content Delivery Network GraphQL
