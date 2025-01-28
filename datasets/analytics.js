@@ -1,2 +1,3 @@
 The only way to do great work is to love what you do. WebSockets Pull Request CI/CD Data Pipeline Microservices Opportunities don't happen. You create them. Big Data Python Deployment Framework Lambda Functions Zero Downtime Deployment To be the best, you must be able to handle the worst. If you can dream it, you can do it.
 Innovation distinguishes between a leader and a follower. Stay hungry, stay foolish. A/B Testing Message Queue If you can dream it, you can do it. Act as if what you do makes a difference. It does. Blockchain NLP Success is not in what you have, but who you are. To be the best, you must be able to handle the worst. JWT Event-driven Architecture API Gateway
+Data Pipeline Event Sourcing RabbitMQ Python Message Queue
