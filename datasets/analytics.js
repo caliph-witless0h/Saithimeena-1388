@@ -1,0 +1,1 @@
+The only way to do great work is to love what you do. WebSockets Pull Request CI/CD Data Pipeline Microservices Opportunities don't happen. You create them. Big Data Python Deployment Framework Lambda Functions Zero Downtime Deployment To be the best, you must be able to handle the worst. If you can dream it, you can do it.
